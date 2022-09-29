@@ -2,7 +2,7 @@
 ## Programming Assignment: Week 2 practice lab: Linear regression
 C1_W2_Linear_Regression
 Course OFFERED BY : DeepLearning.AI | Stanford
-Passed · 100/100 points
+### Passed · 100/100 points
 # Practice Lab: Linear Regression
 
 Welcome to your first practice lab! In this lab, you will implement linear regression with one variable to predict profits for a restaurant franchise.
